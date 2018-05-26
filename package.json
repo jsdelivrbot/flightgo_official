@@ -1,0 +1,25 @@
+{
+  "name": "fligtgo_official",
+  "version": "1.0.1",
+  "description": "official SPA web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "run_test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/housekeepbao/flightgo_official.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "jackal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/housekeepbao/flightgo_official/issues"
+  },
+  "homepage": "https://github.com/housekeepbao/flightgo_official#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
