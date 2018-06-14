@@ -444,3 +444,7 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .des {
   color:  #343a40;
 }
+.showimg {
+  max-width: 600px;
+  max-height: 400px;
+}
