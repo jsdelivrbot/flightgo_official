@@ -448,3 +448,9 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   width: 80%;
   height: 80%;
 }
+@media screen and (max-width: 600px){
+  .showimg {
+    width: 30%;
+    height: 30%;
+  }
+}
