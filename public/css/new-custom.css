@@ -444,20 +444,20 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .des {
   color:  #343a40;
 }
-@media screen and (min-width: 770px){
+@media (min-width: 770px){
   .showimg {
     width: 80%;
     height: 80%;
   }
 }
-@media only screen and (min-width: 321px) and (max-width: 768px){
+@media (min-width: 321px) and (max-width: 767px){
   .showimg {
     width: 30%;
     height: 30%;
   }
 }
 
-@media screen and (max-width: 320px){
+@media (max-width: 320px){
   .showimg {
     width: 10%;
     height: 10%;
