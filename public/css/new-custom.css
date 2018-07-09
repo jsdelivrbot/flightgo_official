@@ -454,8 +454,8 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 @media (min-width: 321px) and (max-width: 990px){
   .showimg {
     display: inline-block;
-    width: 40%;
-    height: 40%;
+    max-width: 40%;
+    max-height: 40%;
   }
 }
 
