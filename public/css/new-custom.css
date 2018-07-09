@@ -444,14 +444,14 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .des {
   color:  #343a40;
 }
-@media (min-width: 770px){
+@media (min-width: 991px){
   .badges .showimg {
     display: inline-block;
     width: 80%;
     height: 80%;
   }
 }
-@media (min-width: 321px) and (max-width: 767px){
+@media (min-width: 321px) and (max-width: 990px){
   .badges .showimg {
     display: inline-block;
     width: 50px;
