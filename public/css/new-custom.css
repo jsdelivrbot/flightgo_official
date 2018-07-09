@@ -445,24 +445,24 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   color:  #343a40;
 }
 @media (min-width: 991px){
-  .badges .showimg {
+  .showimg {
     display: inline-block;
-    max-width: 10%;
-    max-height: 10%;
+    max-width: 80%;
+    max-height: 80%;
   }
 }
 @media (min-width: 321px) and (max-width: 990px){
-  .badges .showimg {
+  .showimg {
     display: inline-block;
-    max-width: 50px;
-    max-height: 50px;
+    max-width: 30%;
+    max-height: 30%;
   }
 }
 
 @media (max-width: 320px){
   .badges .showimg {
     display: inline-block;
-    max-width: 10px;
-    max-height: 10px;
+    max-width: 10%;
+    max-height: 10%;
   }
 }
